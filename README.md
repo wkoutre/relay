@@ -6,7 +6,7 @@ Relay is a JavaScript framework for building data-driven React applications.
 * **Colocation:** Queries live next to the views that rely on them, so you can easily reason about your app. Relay aggregates queries into efficient network requests to fetch only what you need.
 * **Mutations:** Relay lets you mutate data on the client and server using GraphQL mutations, and offers automatic data consistency, optimistic updates, and error handling.
 
-[See how to use Relay in your own project](https://facebook.github.io/relay/docs/getting-started.html) or check out the community-driven tutorial at [Learn Relay](https://www.learnrelay.org).
+[Learn how to use Relay in your own project.](https://facebook.github.io/relay/docs/getting-started.html)
 
 ## Example
 
@@ -22,7 +22,7 @@ Then, just point your browser at `http://localhost:3000`.
 
 ## Contribute
 
-We actively welcome pull requests, learn how to [contribute](./.github/CONTRIBUTING.md).
+We actively welcome pull requests, learn how to [contribute](./CONTRIBUTING.md).
 
 ## Users
 
@@ -30,4 +30,4 @@ We have a [community-maintained list](./USERS.md) of people and projects using R
 
 ## License
 
-Relay is [MIT licensed](./LICENSE).
+Relay is [BSD licensed](./LICENSE). We also provide an additional [patent grant](./PATENTS).
